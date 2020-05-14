@@ -1,0 +1,3 @@
+<form action="example.com url">
+<label for="name"> Name (max 20 charectars)</label><br>
+<input type = "text" id="name" name="name" value="">

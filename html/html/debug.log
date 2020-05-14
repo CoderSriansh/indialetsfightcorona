@@ -1,0 +1,11 @@
+[0506/093425.059:ERROR:process_info.cc(359)] UncheckedAllocate
+[0506/093426.008:ERROR:file_io.cc(134)] WriteFile: Error (0x13D) while retrieving error. (0x5AA)
+[0506/093426.087:ERROR:file_io.cc(134)] WriteFile: Insufficient system resources exist to complete the requested service. (0x5AA)
+[0506/184433.418:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0506/184455.217:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0506/184510.129:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0506/185455.269:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0506/185455.290:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0506/185955.251:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0507/114245.527:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0511/100635.075:ERROR:crash_report_database_win.cc(428)] unexpected header
